@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Viraluos-s-workspace-3ilb9u.us-east-1.xata.sh/db/cloud",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
